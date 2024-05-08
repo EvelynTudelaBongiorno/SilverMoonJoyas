@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #db5488;
+  }
+  .navbar {
+    background-color: #343a40;
+  }
+  .navbar-brand, .navbar-nav .nav-link {
+    color: #ec989f;
+  }
+  .jumbotron {
+    background: url('https://via.placeholder.com/1500x400') no-repeat center center;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  .product {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+  }
